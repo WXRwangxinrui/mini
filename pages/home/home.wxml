@@ -1,0 +1,5 @@
+<!--miniprogram/pages/home/home.wxml-->
+<text class="title">Hello World</text>
+<button size='mini'>按钮</button>
+
+
